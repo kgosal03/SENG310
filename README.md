@@ -7,7 +7,7 @@ I also learned about various methods to understand user behavior in relation to 
 
 Overall, the course covered the three main phases of HCI: (a) understanding users, (b) developing prototypes, and (c) evaluation. My focus was on applying the human-centered design process to improve and enhance human-computer interactions, rather than on developing technically robust software systems.
 
-#Topics
+# Topics
 
 - Human-Centered Design Process
 - Establishing Requirements
